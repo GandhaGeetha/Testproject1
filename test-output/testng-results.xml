@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20295" started-at="2018-11-17T11:32:10Z" finished-at="2018-11-17T11:32:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20295" started-at="2018-11-17T11:32:10Z" finished-at="2018-11-17T11:32:30Z">
+      <class name="Testcases.Login_HRM">
+        <test-method status="PASS" signature="sexecution()[pri:0, instance:Testcases.Login_HRM@457e2f02]" name="sexecution" is-config="true" duration-ms="24" started-at="2018-11-17T17:02:10Z" finished-at="2018-11-17T17:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sexecution -->
+        <test-method status="PASS" signature="loginHRM()[pri:0, instance:Testcases.Login_HRM@457e2f02]" name="loginHRM" duration-ms="20165" started-at="2018-11-17T17:02:10Z" finished-at="2018-11-17T17:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHRM -->
+        <test-method status="PASS" signature="execution()[pri:0, instance:Testcases.Login_HRM@457e2f02]" name="execution" is-config="true" duration-ms="0" started-at="2018-11-17T17:02:30Z" finished-at="2018-11-17T17:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execution -->
+      </class> <!-- Testcases.Login_HRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
